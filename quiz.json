@@ -1,0 +1,202 @@
+[
+    {
+    "question": "1.Which sentence is Correct?",
+    "options": [
+        "A. Lisa met Jen at the market yesterday.",
+        "B. I writes to him yesterday.",
+        "C. She buy a new car last week.",
+        "D. He taken it to school this morning."
+    ],
+    "answer": "A"
+    },
+    {
+    "question": "2.Sindy _____ go to school yesterday.",
+    "options": [
+        "A. doesn't",
+        "B. didn't",
+        "C. don't ",
+        "D. isn't"
+    ],
+    "answer": "B"
+    },
+    {
+    "question": "3.She ______ to school last week.",
+    "options": [
+        "A. walks ",
+        "B. walked",
+        "C. walking  ",
+        "D. walk"
+    ],
+    "answer": "B"
+    },
+    {
+    "question": "4.Did you ______ football yesterday?",
+    "options": [
+        "A. playing",
+        "B. played",
+        "C. play",
+        "D. plays"
+    ],
+    "answer": "C"
+    },
+    {
+    "question": "5.She had a toothache, _____ she went to see a dentist.",
+    "options": [
+        "A. but",
+        "B. and",
+        "C. or ",
+        "D. so "
+    ],
+    "answer": "D"
+    },
+    {
+    "question": "6.My brother wasn't careful when he cooking. He cut _____with a knife.",
+    "options": [
+        "A. himself ",
+        "B. itself",
+        "C. herself ",
+        "D. themselve"
+    ],
+    "answer": "A"   
+    },
+    {
+    "question": "7.Diamond is _____than gold.",
+    "options": [
+        "A. more expensive",
+        "B. expensiver",
+        "C. cheap ",
+        "D. cheapest"
+    ],
+    "answer": "A"   
+    },
+    {
+    "question": "8.Doi Inthanont is _____ mountain in Thailand.",
+    "options": [
+        "A. higher ",
+        "B. the highest",
+        "C. lowest",
+        "D. lower"
+    ],
+    "answer": "B"
+    },
+    {
+    "question": "9.________ is Cooper's best friend? - It's Michael.",
+    "options": [
+        "A. Where",
+        "B. What",
+        "C. Who ",
+        "D. Whose"
+    ],
+    "answer": "C"
+    },
+    {
+    "question": "10.Are you ____________ dinner now?",
+    "options": [
+        "A. cook ",
+        "B. cooking",
+        "C. cooked ",
+        "D. cooks"
+    ],
+    "answer": "B"
+    },
+    {
+    "question": "11.________ dog is the black? It's mine.",
+    "options": [
+        "A. What",
+        "B. When",
+        "C. Who ",
+        "D. Whose"
+    ],
+    "answer": "D"
+    },
+    {
+    "question": "12._______ do you like ice cream? Because it's sweet.",
+    "options": [
+        "A. Why ",
+        "B. When",
+        "C. Who ",
+        "D. How"
+    ],
+    "answer": "A"
+    },
+    {
+    "question": "13.A: How _________ milk is there in the bottle? B: There is __________ milk in the bottle.",
+    "options": [
+        "A. many / a lot of ",
+        "B. much / a lot of",
+        "C. many / a few ",
+        "D. much / a few"
+    ],
+    "answer": "B"
+    },
+    {
+    "question": "14.She doesn't have _______________ friends.",
+    "options": [
+        "A. much ",
+        "B. many",
+        "C. some ",
+        "D. any"
+    ],
+    "answer": "D"
+    },
+    {
+    "question": "15.I'm sorry, I can't pay for your dinner. I have ______ money.",
+    "options": [
+        "A. a little",
+        "B. a few",
+        "C. little",
+        "D. few"
+    ],
+    "answer": "C"
+    },
+    {
+    "question": "16.Johny is not sad. He is __________.",
+    "options": [
+        "A. happy ",
+        "B. high",
+        "C. hungry ",
+        "D. hot"
+    ],
+    "answer": "A"
+    },
+    {
+    "question": "17.Who is ________________ badminton player in this class?",
+    "options": [
+        "A. the better",
+        "B. the good",
+        "C. the best",
+        "D. better than"
+    ],
+    "answer": "C"
+    },
+    {
+    "question": "18.Your car is _________ than mine.",
+    "options": [
+        "A. the most cheap",
+        "B. cheaper",
+        "C. more cheap ",
+        "D. the more cheaper"
+    ],
+    "answer": "B"
+    },
+    {
+    "question": "19.My pen is __________ the books and the notebooks.",
+    "options": [
+        "A. between ",
+        "B. in",
+        "C. on ",
+        "D. next"
+    ],
+    "answer": "A"
+    },
+    {
+    "question": "20.The black car is ________ of the house.",
+    "options": [
+        "A. behind",
+        "B. in front",
+        "C. next to  ",
+        "D. under"
+    ],
+    "answer": "B"
+    }
+]
