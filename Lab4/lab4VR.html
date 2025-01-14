@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>VR Introduction</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://aframe.io/releases/1.4.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+        <!-- พื้นหลังแบบ360 -->
+        <a-sky src="./bgVR.jpg"></a-sky>
+
+        <a-assets>
+            <a-asset-item id="muscle_fox" src="./muscle_fox.glb"></a-asset-item>
+          </a-assets>
+
+
+        <a-assets>
+            <a-asset-item id="fox_minecraft" src="./fox_minecraft.glb"></a-asset-item>
+          </a-assets>
+    
+          <!-- แสดงโมเดลในฉาก -->
+          <a-entity 
+        gltf-model="#muscle_fox"
+        animation__rotate="property: rotation; to: 0 360 0; loop: true; dur: 5000"
+        animation__scale="property: scale; from: 1 1 1; to: 1.5 1.5 1.5; loop: true; dir: alternate; dur: 2000"
+        position="0 0 -5">
+      </a-entity>
+
+
+      <!-- ข้อมูลแนะนำตัว -->
+      <a-text value="Name: Jirapat Kolkijsuwan" position="-1 3.5 -3" width="4" color="#ff0000"></a-text>
+      <a-text value="ID: 653380122-8" position="-1 3.3 -3" width="4" color="#ff0000"></a-text>
+      <a-text value="college of computing kku" position="-1 3 -3" width="4" color="#1656ad"></a-text>
+
+      <a-image src="./cpkku.png" position="2 3 -3" width="1.5" height="2"></a-image>
+
+      <!-- < Animation เพิ่มเติม (เช่น การกระพริบ) -->
+
+      <a-entity 
+      gltf-model="#fox_minecraft"
+      animation__rotate="property: rotation; to: 0 360 0; loop: true; dur: 5000"
+      animation__scale="property: scale; from: 0.4 0.4 0.4; to: 1.5 1.5 1.5; loop: true; dir: alternate; dur: 2000"
+      position="-2 0 -5">
+
+
+    </a-entity>"
+      animation__rotate="property: rotation; to: 0 360 0; loop: true; dur: 5000"
+      animation__scale="property: scale; from: 1 1 1; to: 1.5 1.5 1.5; loop: true; dir: alternate; dur: 2000"
+      position="2 0 -5">
+    </a-entity>
+
+      <!-- Camera เพื่อมองไปรอบ ๆ -->
+      <a-camera position="0 1.6 0">
+        <a-cursor></a-cursor>
+      </a-camera>
+    </a-scene>
+  </body>
+</html>
